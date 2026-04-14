@@ -99,8 +99,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anurag-fengade-910620255/ )
 - 📸 [Instagram](https://www.instagram.com/anuraggfengade23 )
-- 💻 [GitHub]( )
+- 💻 [GitHub](https://github.com/AnuragFengade )
 
 ---
-
 > Crafted with 📊 by  Anurag Ganesh Fengade 
