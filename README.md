@@ -76,21 +76,7 @@
 
 ---
 
-## 📷 Screenshots
-
-### 🔹 HR Analytics Dashboard
-![HR Analytics Dashboard](./assets/dashboard.png)
-
-### 🔹 Overview Dashboard
-![Overview Dashboard](./assets/preview.png)
-
-### 🔹 R&D Department Insights
-![R&D Department Insights](./assets/R&D.png)
-
-### 🔹 Sales Department Insights
-![Sales Department Insights](./assets/sales.png)
-
----
+ 
 
 ## 👨‍💻 Developer
 
