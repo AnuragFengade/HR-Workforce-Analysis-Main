@@ -12,9 +12,6 @@
  👉 [View Dashboard](https://lookerstudio.google.com/reporting/23acea98-5f36-49f9-a1a8-7803f756234e)
  ---
 
- ## 🖼️ Cover Page
-
- ![Cover Image](./assets/cover_image.png)
 
  ---
 
